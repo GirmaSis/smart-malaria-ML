@@ -24,17 +24,17 @@ Each notebook applies machine learning to classify malaria cases as **Parasitize
 | **Naïve Bayes** | 61%             | 62%              | 63%       | 46%      |
 
 
-## 🧠 Dataset description
+### Dataset description
 - Total records: **1011**
 - Features: **15 binary symptoms**
 - Classes: **Parasitized** (348 cases), **Normal** (663 cases)
 
-## 🔧 Environment
+### Environment
 - Python
 - Google Colab (Jupyter)
 - Scikit-learn, Matplotlib, Pandas, Numpy
 
-## 📌 Citation
+### Citation
 If you use this code, please cite the paper:
 
 ```bibtex
